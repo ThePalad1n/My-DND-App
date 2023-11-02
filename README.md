@@ -71,8 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 If you have any questions or suggestions about My DnD App, please feel free to contact me.
 
-Happy Gaming!
-
-```
-
-Remember to replace `https://github.com/yourusername/my-dnd-app.git` with your actual repository URL and add any additional instructions or information as necessary.
+Happy Dnding!
